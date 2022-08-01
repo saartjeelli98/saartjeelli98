@@ -1,7 +1,7 @@
 <h1>Introduction</h1>
 <p>Hi, I'm @saartjeelli98!</p>
-<p>I'm interested in becoming a front end web developer</p>
-<p>I'm currently learning HTML and CSS. I am a beginner and would love to find helpful tutorials and tips!</p>
+<p>I am currently taking an 18-week course for front end development with Promineo Tech. We are learning many development technologies including JavaScript, Algorithms, OOP, Design Patterns, Unit Testing, HTML, CSS, React, and more!</p>
+
 
 <!---
 saartjeelli98/saartjeelli98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
