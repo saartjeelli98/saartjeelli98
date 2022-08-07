@@ -1,6 +1,4 @@
-<h1>Introduction</h1>
-<p>Hi, I'm @saartjeelli98!</p>
-<p>I am currently taking an 18-week course for front end development with Promineo Tech. We are learning many development technologies including JavaScript, Algorithms, OOP, Design Patterns, Unit Testing, HTML, CSS, React, and more!</p>
+<I am currently a student at Promineo Tech learning front end development. We are learning many technologies including JavaScript, Algorithms, OOP, Design Patterns, Unit Testing, HTML, CSS, React, and more! I am excited for this journey because I have the opportunity to connect with others new to the development world and to learn from experienced people in the industry. I am looking forward to starting new projects both in association with the program but also in my own time. Soon I hope to be making user-friendly, design-focused work.</p>
 
 
 <!---
